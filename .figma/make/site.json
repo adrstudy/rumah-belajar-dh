@@ -1,0 +1,10 @@
+{
+  "description": "This single-page website offers personalized tutoring in Mathematics, Physics, and Chemistry for high school students, emphasizing understanding over memorization.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
